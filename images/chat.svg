@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="77.318" height="70.924" viewBox="0 0 77.318 70.924">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3 {
+        fill: none;
+        stroke: #3a8dfd;
+      }
+
+      .cls-1 {
+        stroke-miterlimit: 10;
+        stroke-width: 3.5px;
+      }
+
+      .cls-2, .cls-3 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+      }
+
+      .cls-3 {
+        stroke-linejoin: round;
+      }
+    </style>
+  </defs>
+  <g id="그룹_68" data-name="그룹 68" transform="translate(-343.341 -3121.25)">
+    <g id="그룹_56" data-name="그룹 56" transform="translate(345.091 3123)">
+      <g id="그룹_57" data-name="그룹 57" transform="translate(0 0)">
+        <path id="패스_100" data-name="패스 100" class="cls-1" d="M38.409,1.5C18.025,1.5,1.5,14.377,1.5,30.26c0,10.325,6.984,19.378,17.469,24.45-1.2,3.769-4.318,13.9-3.409,14.285s12.132-7.038,16.876-10.352a47.478,47.478,0,0,0,5.972.377c20.384,0,36.909-12.877,36.909-28.761S58.794,1.5,38.409,1.5Z" transform="translate(-1.5 -1.5)"/>
+      </g>
+    </g>
+    <g id="그룹_62" data-name="그룹 62" transform="translate(355.898 3146.159)">
+      <path id="패스_101" data-name="패스 101" class="cls-2" d="M-1368.113,4011.813h12.07" transform="translate(1368.113 -4011.813)"/>
+      <path id="패스_102" data-name="패스 102" class="cls-2" d="M-1346.309,4012.378v15.347" transform="translate(1352.428 -4012.205)"/>
+      <path id="패스_103" data-name="패스 103" class="cls-2" d="M-1320.457,4011.813l-6.533,15.692" transform="translate(1337.456 -4011.813)"/>
+      <path id="패스_104" data-name="패스 104" class="cls-2" d="M-1305.638,4012.378l6.446,15.52" transform="translate(1322.612 -4012.378)"/>
+      <path id="패스_105" data-name="패스 105" class="cls-2" d="M-1319.485,4046.387h8.351" transform="translate(1332.248 -4035.809)"/>
+      <path id="패스_106" data-name="패스 106" class="cls-3" d="M-1267.828,4012.378v15.347h7.77" transform="translate(1295.594 -4012.205)"/>
+      <path id="패스_107" data-name="패스 107" class="cls-2" d="M-1229.121,4012.378v15.348" transform="translate(1269.004 -4012.205)"/>
+      <path id="패스_108" data-name="패스 108" class="cls-2" d="M-1219.962,4012.378l-8.866,7.914" transform="translate(1268.8 -4011.936)"/>
+      <path id="패스_109" data-name="패스 109" class="cls-2" d="M-1214.58,4041.815l-7.639-8.875" transform="translate(1264.213 -4026.295)"/>
+    </g>
+  </g>
+</svg>
